@@ -1,1 +1,1 @@
-A simple and interactive Drum Kit project built using HTML,CSS and JavaScript. This project allows users to play different sounds either by clicking on the drum images or by pressing specific keys on the keyboard. I hope you'll this project :)
+A simple and interactive Drum Kit project built using HTML,CSS and JavaScript. This project allows users to play different sounds either by clicking on the drum images or by pressing specific keys on the keyboard. I hope you'll like this project :)
