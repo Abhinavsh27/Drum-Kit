@@ -69,7 +69,7 @@ function makeSound(key) {         //key->used to show the printed representation
 
 function buttonAnimation(currentKey) {
 
-  var activeButton = document.querySelector("." + currentKey);    ///dot is used to concatenate the key.
+  var activeButton = document.querySelector("." + currentKey);  
 
   activeButton.classList.add("pressed");
 
